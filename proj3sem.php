@@ -4,15 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Minha Loja Online</title>
-    <style>
-        .produto {
-            border: 1px solid #ccc;
-            padding: 10px;
-            margin: 10px;
-            width: 200px;
-            display: inline-block;
-        }
-    </style>
+    <link rel="stylesheet" type="text/css" href="style.css">
+
 
 
 </head>
